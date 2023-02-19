@@ -1,0 +1,13 @@
+openai
+#alfworld
+pandas
+numpy
+datatable
+requests
+bs4
+black
+psycopg2
+tiktoken
+sqlalchemy
+pyyaml
+gym
